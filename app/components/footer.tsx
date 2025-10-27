@@ -6,12 +6,16 @@ export default function Footer() {
       </div>
       <div>
         <span>
-          <a href="https://github.com/blendy9702">GitHub</a>
+          <a href="https://github.com/blendy9702" target="_blank">
+            GitHub
+          </a>
         </span>
       </div>
       <div>
         <span>
-          <a href="https://www.instagram.com/blendy9702/">Instagram</a>
+          <a href="https://www.instagram.com/blendy9702/" target="_blank">
+            Instagram
+          </a>
         </span>
       </div>
     </footer>
